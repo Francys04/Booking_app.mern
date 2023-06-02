@@ -24,7 +24,6 @@ export const updateHotel = async ( req, res, next)=>{
 
 }
 
-
 //delete
 export const deleteHotel = async ( req, res, next)=>{
     try{
